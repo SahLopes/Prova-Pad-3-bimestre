@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "isys",
-    "slug": "isys",
+    "name": "prova-todolist",
+    "slug": "prova-todolist",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
